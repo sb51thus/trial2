@@ -1,6 +1,8 @@
 # trial2
-#include<sdio.h><br>
+#include<stdio.h>
 
-int main(){<br>
-    wff<br>
+int main(){
+    printf("what u want");
+    printf("u sure?");
+    return 0;
     }
